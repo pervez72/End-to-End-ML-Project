@@ -1,0 +1,3 @@
+[ 2025-10-24 00:26:36,876 ] 31 root - INFO - Logger file is working properly ✅
+[ 2025-10-24 00:26:36,876 ] 32 root - WARNING - This is a sample warning message ⚠️
+[ 2025-10-24 00:26:36,876 ] 33 root - ERROR - This is a sample error message ❌
