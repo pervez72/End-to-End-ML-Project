@@ -81,7 +81,7 @@ def predict_datapoint():
         pred_df = data.get_data_as_data_frame()  
         print(pred_df)  # Debugging purpose: print input data
 
-        # Initialize PredictPipeline object
+        # Initialize PredictPipeline object 
         predict_pipeline = PredictPipeline()  
 
         # Run the ML model prediction
