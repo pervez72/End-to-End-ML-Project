@@ -25,20 +25,6 @@ Predict a student’s **math score** based on features like:
 * Lunch type
 * Test preparation course
 
----
-
-## Workflow
-
-```mermaid
-flowchart TD
-A[Data Collection] --> B[Data Preprocessing]
-B --> C[Exploratory Data Analysis (EDA)]
-C --> D[Model Training]
-D --> E[Model Evaluation]
-E --> F[Model Deployment using Flask]
-```
-
----
 
 ## 🛠️ Tech Stack
 
